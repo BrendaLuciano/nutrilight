@@ -120,8 +120,8 @@ button,input,select,textarea{margin:0}
 button{overflow:visible;width:auto}
 .ie7 img{-ms-interpolation-mode:bicubic}
 .clearfix:before,.clearfix:after{content:"\0020";display:block;height:0;overflow:hidden}
-.clearfix:after,.clear{clear:both}
-body,select,input,textarea{color:#444}
+.clearfix:after,.clear{clear:both} 
+body,select,input,textarea{color:#444} 
 a:link{-webkit-tap-highlight-color:#fcd700}
 ins{background-color:#fcd700;color:#000;text-decoration:none}
 mark{background-color:#fcd700;color:#000;font-style:italic;font-weight:700}
@@ -132,13 +132,13 @@ input[type=radio],.ie6 input{vertical-align:text-bottom}
 .font-reg { font-family: 'Montserrat-Regular', sans-serif;}
 
 /*=============== # Core styles =======================*/
-body { background:#fff; color:#848484; font-size:14px;font-family: 'Montserrat-Regular', sans-serif;font-weight: 400;line-height: 29px;word-wrap: break-word;}
+body { background:#fff; color:#848484; font-size:18px;font-family: 'Montserrat-Regular', sans-serif;font-weight: 400;line-height: 29px;word-wrap: break-word;}
 p, /***.top-text,**/input, select, textarea, span, blockquote, a, li {font-family: 'Montserrat-Light', sans-serif;}
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {font-family: 'Montserrat-Regular', sans-serif;color: #575757;}
 h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {color: #60ba62;}
 .btn, input[type=submit], button {padding: 15px 31px;color: #f2f2f2;background: #f26066;font-size: 14px;text-transform: uppercase;border-radius: 30px;border-color: #fff;}
 .btn:hover, input[type=submit]:hover, button:hover {background: #62c14e;color: #fff;}
-.border-btn-small {border-radius: 30px;border: 2px solid #f26066;color: #fff;font-size: 13px;text-transform: uppercase;background: #f26066;padding: 5px 21px;font-style: bold !important;}
+.border-btn-small {border-radius: 30px;border: 2px solid #f26066;color: #fff;font-size: 13px;text-transform: uppercase;background: #f26066;padding: 10px 44px;font-style: bold !important; margin-top: -11px !important;}
 .border-btn-big {border-radius: 0;border: 2px solid #f26066;color: #f26066;font-size: 23px;text-transform: capitalize;background: #fff;padding: 11px 55px;}
 .border-btn-x-big{font-family: 'Montserrat-Light', sans-serif;border-radius: 4px;border: 2px solid #f26066;color: #60ba62;font-size: 25px;text-transform: uppercase;background: transparent;padding: 11px 55px;}
 
@@ -227,7 +227,7 @@ header.green .navbar-default .navbar-nav>li>a:after {background: #fff;}
 .navbar-default .navbar-nav>li{padding: 20px 25px;}
 header.green .navbar-default .navbar-nav>li {padding: 20px 16px;}
 .navbar-default {margin-bottom: 0;}
-.nav-right-btn {margin-top: 15px;width: auto;}
+.nav-right-btn {margin-top: 15px;}
 .menu-block .container-fluid, .navbar-collapse {padding-right: 0;}
 .nav-right-btn {float: right;}
 .menu-block {padding-right: 0;}
@@ -248,7 +248,6 @@ header.green .border-btn-small:hover {background: #fff;color: #60ba62;}
 .banner-text h1 strong{font-size: 36px;color: #f26066;}
 .banner-image img {position: absolute;left: -99999px;right: -99999px;margin: auto;width: auto;height: 406px;}
 .bannerwrap figure {text-align: center;background: #fff;margin-bottom: 0;}
-
 
 /*======================= # Features section  ==================*/
 .feature-item-wrap figure {height: 76px;margin-bottom: 15px;}
@@ -281,9 +280,9 @@ header.green .border-btn-small:hover {background: #fff;color: #60ba62;}
 .home-banner {height: 100%;top: 0px;overflow: hidden; background-color: #f26066;        /*******margin-top: -94px;*************/}
 .home-banner .bannerwrap figure img {position: absolute;left: -99999px;right: -99999px;margin: auto;}
 .home-banner1.home-banner .banner-text {width: 370px;}
-.home-banner1.home-banner .banner-text h1 {margin-bottom: 18px;}
-.home-banner1.home-banner a.btn {font-size: 18px;padding: 13px 13.5%; border-radius: 40px; border-color: #fff; color: #fff; border: 2px solid;}
-.home-banner1.home-banner .banner-text p {font-size: 17px;line-height: 30px;color: #fff;}
+.home-banner1.home-banner .banner-text h1 {margin-bottom: 18px; margin-left: 80px; margin-top: -55px;}
+.home-banner1.home-banner a.btn {font-size: 18px;padding: 13px 13.5%; border-radius: 40px; border-color: #fff; color: #fff; border: 2px solid; margin-left: 80px;}
+.home-banner1.home-banner .banner-text p {font-size: 17px;line-height: 30px;color: #fff; margin-top: 17px; margin-left: 80px;}
 .home-banner1.home-banner .banner-text {top: 20%;}
 #owl-demo .item img{display: block;width: 100%;height: auto;}
 .owl-carousel .owl-item {position: relative;}
