@@ -1147,8 +1147,8 @@ header.green .border-btn-small:hover {
 #owl-demo .item {
     display: block;
     width: 100%;
-    height: 60vh;
-    background-color: red;
+    height: 70vh;
+    background-color: #f26066;
 }
 
 .owl-carousel .owl-item {
