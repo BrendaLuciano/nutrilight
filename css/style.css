@@ -1269,6 +1269,8 @@ a.btn:focus {
     color: #60ba62;
 }
 
+/*======================= HOME BANNER BUTTON ==================*/
+
 .home-banner a.btn {
     font-size: 18px;
     text-transform: capitalize;
@@ -1277,6 +1279,8 @@ a.btn:focus {
     color: #fff;
     background-color: transparent !important;
     border-color: #fff;
+    margin-left: 65px;
+    margin-right: -100px;
     }
 
 .home-banner3.home-banner #owl-demo .owl-item:nth-child(3) .banner-text p {
