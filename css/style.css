@@ -3232,7 +3232,7 @@ footer.limited-footer {
 
 .weight-loss-block h3 {
     font-size: 26px;
-    color: #000;
+    color: #f26066;
     font-family: 'Montserrat-Light', sans-serif;
     position: relative;
     padding-bottom: 30px;
@@ -6429,6 +6429,7 @@ header.green {
     h3 {
         font-size: 18px;
         line-height: 27px;
+        color: #f26066;
     }
     .left-form {
         padding: 50px 4% 55px 4%;
@@ -8266,4 +8267,10 @@ header.green {
     font-size: 30px;
     margin-left: 65px;
     margin-right: -100px;
+}
+
+.programs-text {
+    color: #f26066 !important;
+    font-family: 'Montserrat-Bold';
+    font-size: 30px; 
 }
