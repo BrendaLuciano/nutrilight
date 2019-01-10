@@ -394,6 +394,7 @@ button {
 input[type=submit]:hover,
 button:hover {
     background: #60ba62;
+    border-color: #60ba62;
     color: #fff;
 }
 
