@@ -4422,6 +4422,8 @@ footer {
     text-align: center;
     line-height: 26px;
     display: inline-block;
+    margin-right: 50px;
+    margin-left: -50px;
 }
 
 .bottom-footer {
