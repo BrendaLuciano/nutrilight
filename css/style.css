@@ -4388,8 +4388,10 @@ footer {
     color: black;
     font-family: 'Montserrat-Light', sans-serif;
     text-transform: capitalize;
-    line-height: 17px;
+    line-height: 15px;
     display: block;
+    margin-top: 25px;
+    margin-left: 28px;
 }
 
 .footer-links-col ul li {
