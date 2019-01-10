@@ -4353,7 +4353,8 @@ footer {
 }
 
 .footer-logo {
-    width: 30%;
+    width: 20%;
+    padding-bottom: 100px !important;
 }
 
 .footer-logo figure {
@@ -4366,7 +4367,7 @@ footer {
 }
 
 .top-footer {
-    background: #60ba62;
+    background: #fff;
     padding: 40px 0;
     font-family: 'Montserrat-Light', sans-serif;
     letter-spacing: 0.1em;
