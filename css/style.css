@@ -8287,7 +8287,7 @@ header.green {
     border: 2px solid #ffffff;
     font-size: 16px;
     color: #fff !important;
-    padding: 20px;
+    padding: 15px;
     border-radius: 40px;
     transition: .5s;
 }
@@ -8301,7 +8301,10 @@ header.green {
     border: 2px solid #f26066;
     font-size: 16px;
     color: #f26066 !important;
-    padding: 7px !important;
+    padding-top: 7px !important;
+    padding-bottom: 7px !important;
+    padding-right: 15px !important;
+    padding-left: 15px !important;
     border-radius: 40px;
     transition: .5s;
 }
