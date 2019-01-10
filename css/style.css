@@ -817,6 +817,7 @@ h4 {
 h5 {
     font-size: 20px;
     line-height: 28px;
+    color: #fff !important;
 }
 
 h6 {
@@ -8278,7 +8279,7 @@ header.green {
 }
 
 .programs-text {
-    color: #f26066 !important;
+    color: #fff !important;
     font-family: 'Montserrat-Bold';
     font-size: 30px; 
 }
