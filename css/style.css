@@ -1508,7 +1508,7 @@ a.btn:focus {
 /*======================= # Select program section  ==================*/
 
 .block.select-program-block {
-    background: url(../images/select-program-background.jpg) no-repeat center top;
+    background-color: #f26066 !important;
     padding: 0;
     background-size: contain;
 }
