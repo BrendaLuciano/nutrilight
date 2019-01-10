@@ -319,7 +319,8 @@ input[type=radio],
 }
 
 .text-lt {
-    font-family: "Montserrat-Light", sans-serif;
+    font-family: "Montserrat-Bold", sans-serif !important;
+    color: #f26066;
 }
 
 .text-sp {
