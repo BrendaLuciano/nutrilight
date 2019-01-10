@@ -1138,6 +1138,8 @@ header.green .border-btn-small:hover {
     font-size: 17px;
     line-height: 30px;
     color: #fff;
+    margin-left: 65px;
+    margin-right: -100px;
 }
 
 .home-banner1.home-banner .banner-text {
@@ -1147,7 +1149,7 @@ header.green .border-btn-small:hover {
 #owl-demo .item {
     display: block;
     width: 100%;
-    height: 70vh;
+    height: 80vh;
     background-color: #f26066;
 }
 
@@ -8251,5 +8253,8 @@ header.green {
 .banner-title {
     color: #fff !important;
     font-family: 'Montserrat-Bold';
+    font-weight: 800px;
     font-size: 30px;
+    margin-left: 65px;
+    margin-right: -100px;
 }
