@@ -869,7 +869,7 @@ header.green .logo-block {
     right: 0;
     margin: auto;
     height: 3px;
-    background: #60ba62;
+    background: #f26066;
     width: 0;
     bottom: -15px;
     content: '';
@@ -5148,7 +5148,7 @@ input.txtacrescimo {
 
 .health-page header.green.scrolled,
 .health-page header.green .navbar-default .navbar-nav>li>a:after {
-    background: #60ba62;
+    background: #f26066 !important;
 }
 
 .health-page header.green.scrolled .navbar-default .navbar-nav>li>a:after {
