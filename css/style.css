@@ -8245,4 +8245,11 @@ header.green {
         font-size: 10px;
         padding: 2px 10px;
     }
+    
+}
+
+.banner-title {
+    color: #fff !important;
+    font-family: 'Montserrat-Bold';
+    font-size: 30px;
 }
